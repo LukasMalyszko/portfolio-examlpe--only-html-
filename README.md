@@ -1,2 +1,2 @@
-# portfolio-examlpe--only-html-
+# portfolio-example
 used only HTML and CSS
